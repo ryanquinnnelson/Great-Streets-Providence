@@ -1,4 +1,4 @@
-# MAP-Providence
+# Great Streets-Providence
 While I was living and working in Providence in 2013, I measured and documented the lovely streets and pedestrian spaces I encountered.
 
 
